@@ -1,0 +1,3 @@
+[submodule "lib/DieselHeaterRF"]
+	path = lib/DieselHeaterRF
+	url = git@github.com:axelhieber/DieselHeaterRF.git
